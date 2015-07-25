@@ -6,3 +6,5 @@ A test repo for a test project
  * using [octokat.js](https://github.com/philschatz/octokat.js) to :horse: around
 
 Hello
+
+appending updates
