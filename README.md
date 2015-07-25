@@ -1,5 +1,5 @@
-IyBIZWxsbyB3b3JsZCEKQSB0ZXN0IHJlcG8gZm9yIGEgdGVzdCBwcm9qZWN0
-
+# Hello world!
+A test repo for a test project
 
  * Moar! a list coool
  * oh hai
